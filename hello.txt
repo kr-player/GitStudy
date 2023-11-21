@@ -1,5 +1,0 @@
-Hello! My name is Revan!
-I'm currently learning rust!
-It's so hard to learn Rust...
-but I'm working hard.
-sonn I'll master it.
