@@ -1,4 +1,5 @@
-hello my name is python!
-hello my name is rust!
-hello my name is c++!
-hello my name is java!
+Hello! My name is Revan!
+I'm currently learning rust!
+It's so hard to learn Rust...
+but I'm working hard.
+sonn I'll master it.
