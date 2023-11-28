@@ -1,3 +1,9 @@
 hello my name is c++!
 hello c++!
+<<<<<<< HEAD
 hello worl
+=======
+김규식 수정
+
+
+>>>>>>> 307847cd2b28e625a65e6279a3f92046f597ec16
